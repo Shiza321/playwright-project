@@ -1,0 +1,6 @@
+BROWSER = "chromium"
+HEADLESS = False
+DEFAULT_URL = "https://www.google.com"
+WINDOW_WIDTH = 1280
+WINDOW_HEIGHT = 720
+DEFAULT_TIMEOUT = 30000
